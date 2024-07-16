@@ -1,6 +1,9 @@
 # Hey-KPU
 kaishi-LABの機材を説明するチャットボット
 
+##参考にした記事
+[Next.js環境開発にdocker composeを使い倒した話](https://zenn.dev/k_hojo/articles/318d18e0e5b9ac#5.-docker-compose-up)
+
 ## 環境構築
 
 > [!WARNING]
